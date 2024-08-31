@@ -16,7 +16,7 @@ Esta API foi projetada para gerenciar mangás com operações CRUD (Criar, Ler, 
 Clone o Repositório:
 
 
-1. primeiramente clona o repositório com git clone 
+1. primeiramente clona o repositório com git clone https://github.com/TheodoroL/api-manga-crud.git
 2. após clonar o repositório, de apenas npm install para instalar as dependencia que é necessária para o uso da api
 5. Após fazer isso, sobe o container utilizando o comando docker-compose up -d
 4. para questão desenovlvimento, usa o comando npm run dev 
